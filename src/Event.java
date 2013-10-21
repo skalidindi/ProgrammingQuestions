@@ -25,8 +25,6 @@ public class Event {
 		// TODO Auto-generated method stub
 		ArrayList<Event> e = new ArrayList<Event>();
 		Collections.sort(e, new MyEventComparator());
-		
-		
 	}
 
 }
